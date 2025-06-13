@@ -44,16 +44,17 @@
 7. Problem module:
    - Fetch problems from database or third-party API
 8. Code editor:
-   8.1. Display problem details and editable code area
-   8.2. Real-time coding with Monaco Editor
-   8.3. Language selection with corresponding syntax support
-   8.4. Custom test cases, console output, and verification system
-   8.5. Real-time code compilation backend
-   8.6. AI-powered LogicBot for: - Debugging - Code suggestions - Problem explanations - General Q&A
-   8.7. Multi-user real-time collaboration in coding rooms
-   8.8. Voice and video communication via WebRTC
-   8.9. Real-time text chat via WebSocket
-   8.10. Seamless coding + collaboration workflow
+   - Display problem details and editable code area
+   - Real-time coding with Monaco Editor
+   - Language selection with corresponding syntax support
+   - Custom test cases, console output, and verification system
+   - Real-time code compilation backend
+   - AI-powered LogicBot for: - Debugging - Code suggestions - Problem explanations - General Q&A
+   - Multi-user real-time collaboration in coding rooms
+   - Voice and video communication via WebRTC
+   - Real-time text chat via WebSocket
+   - Seamless coding + collaboration workflow
+
 
 ---
 
