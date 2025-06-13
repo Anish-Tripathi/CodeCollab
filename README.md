@@ -26,3 +26,37 @@
 - Personalized user settings and theme preferences
 - Dashboard with submission history and performance tracking
 - Developer tools shop with premium content and learning resources
+
+---
+
+## Backend Features
+
+1. User authentication: login, signup, and forgot password
+2. Auth-based navbar and footer link visibility
+3. Dashboard:
+   - Shows recently solved problems
+   - Displays total counts and accuracy percentages
+4. Resource generation using OpenAI API and display on frontend
+5. Extended content for quizzes (frontend only)
+6. Settings page:
+   - Real-time profile picture update
+   - Editable user details
+7. Problem module:
+   - Fetch problems from database or third-party API
+8. Code editor:
+   8.1. Display problem details and editable code area
+   8.2. Real-time coding with Monaco Editor
+   8.3. Language selection with corresponding syntax support
+   8.4. Custom test cases, console output, and verification system
+   8.5. Real-time code compilation backend
+   8.6. AI-powered LogicBot for: - Debugging - Code suggestions - Problem explanations - General Q&A
+   8.7. Multi-user real-time collaboration in coding rooms
+   8.8. Voice and video communication via WebRTC
+   8.9. Real-time text chat via WebSocket
+   8.10. Seamless coding + collaboration workflow
+
+---
+
+## 🚧 Work in Progress
+
+CodeCollab is an ambitious and actively evolving project. We're continuously adding new features and refining the experience to deliver a powerful collaborative coding platform. Stay tuned — exciting updates are on the way!
