@@ -1,4 +1,4 @@
-# CodeCollab
+# CodeCollab – AI-Powered Real-Time Collaboration Platform
 
 <p align="center">
   <img src="./public/logo.png" alt="CodeCollab Logo" width="200" />
