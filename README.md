@@ -1,7 +1,7 @@
 # CodeCollab
 
 <p align="center">
-  <img src="./logo.png" alt="CodeCollab Logo" width="200" />
+  <img src="./public/logo.png" alt="CodeCollab Logo" width="200" />
 </p>
 
 <p align="center">
